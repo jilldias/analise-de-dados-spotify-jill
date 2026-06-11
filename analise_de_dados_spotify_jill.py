@@ -1,5 +1,5 @@
 #Faz o upload da base de dados para análise.
-#from google.colab import files
+from google.colab import files
 import zipfile
 import json
 import pandas as pd
